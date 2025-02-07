@@ -26,7 +26,7 @@ pip install tensorflow numpy pillow
 
 
 ## 📁 Project Structure
-📜 View the Python Script 📜 View the Model File
+[📜 View the Python Script](TeachableM_AI.py)
 ```
 /
 │-- TeachableM_AI.py         # 🖥️ Python script to load and use the model
